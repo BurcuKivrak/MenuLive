@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\MenuLive\MenuLive\bin\Debug\MenuLive.exe.config
+C:\Users\ASUS\source\repos\MenuLive\MenuLive\bin\Debug\MenuLive.exe
+C:\Users\ASUS\source\repos\MenuLive\MenuLive\bin\Debug\MenuLive.pdb
+C:\Users\ASUS\source\repos\MenuLive\MenuLive\obj\Debug\MenuLive.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\MenuLive\MenuLive\obj\Debug\MenuLive.Form1.resources
+C:\Users\ASUS\source\repos\MenuLive\MenuLive\obj\Debug\MenuLive.Properties.Resources.resources
+C:\Users\ASUS\source\repos\MenuLive\MenuLive\obj\Debug\MenuLive.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\MenuLive\MenuLive\obj\Debug\MenuLive.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\MenuLive\MenuLive\obj\Debug\MenuLive.exe
+C:\Users\ASUS\source\repos\MenuLive\MenuLive\obj\Debug\MenuLive.pdb
+C:\Users\ASUS\source\repos\MenuLive\MenuLive\obj\Debug\MenuLive.Yetkili_AnaEkran.resources
+C:\Users\ASUS\source\repos\MenuLive\MenuLive\obj\Debug\MenuLive.Yonetici_Kategori_Islemleri.resources
+C:\Users\ASUS\source\repos\MenuLive\MenuLive\obj\Debug\MenuLive.Yonetici_Yetkili_Islemleri.resources
+C:\Users\ASUS\source\repos\MenuLive\MenuLive\obj\Debug\MenuLive.Yonetici_Urun_Islemleri.resources
+C:\Users\ASUS\source\repos\MenuLive\MenuLive\obj\Debug\MenuLive.Personel_AnaEkran.resources
